@@ -1,4 +1,4 @@
-SUmmary:
+SUMMARY:
 
 Total Sales
 •	717.82M
